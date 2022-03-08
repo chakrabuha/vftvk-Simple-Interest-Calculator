@@ -8,4 +8,8 @@ h1{color:grey;font-family:verdana}
     border-radius:25px;
     margin:auto;
 }
+label{
+   padding-right: 20px;
+   padding-bottom: 20px;
+}
 

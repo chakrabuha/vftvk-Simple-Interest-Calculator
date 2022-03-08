@@ -13,7 +13,7 @@ function compute()
     }
     else{
         alert("Enter valid amount");
-        document.getElementById("principal").value="100";
-       
+        document.getElementById("principal").value="";
+        document.getElementById("principal").focus();
     }
 }
